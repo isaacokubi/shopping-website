@@ -22,7 +22,7 @@ const HeaderTop = () => {
           </div>
 
     <div className="text-gray-500 text-[12px]">
-      <b>FREE SHIPPING</b> THIS WEEK ORDER OVER $55
+      <b>NEW SCHOOL OF CHOICE</b> THIS WEEK ORDER OVER $55
     </div>
 
     <div  className="flex gap-4">
